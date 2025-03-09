@@ -11,6 +11,8 @@ Paresito é uma aplicação em C++/arduino com o objetivo de estudar comunicaç�
 
 Assim, podemos fazer uma comunicação entre duas placas que não estão fisicamente conectadas. Cheque fotos [aqui](https://drive.google.com/drive/folders/1UWfe9D1-1VTWlmJ9CAKZj_37Qc9fnizx?usp=sharing).
 
+Um obrigado muito especial para Alessandra Máximo e para [PRODABEL-PBH](https://prefeitura.pbh.gov.br/prodabel/inclusaodigital) pelo curso de Introdução à Robótica que fiz.
+
 ## en
 
 Paresito is a C++/arduino application that aims to study the communication through bits. Two boards are required, a sending board and a receiving board. The boards must be placed in a box (so that there is no interference from ambient light) and the process takes place in four parts: 
@@ -21,3 +23,5 @@ Paresito is a C++/arduino application that aims to study the communication throu
 * The receiving board converts the luminosity into binary values and then into letters.
 
 Therefore, we established communication between two boards that aren't physically connected. Check photos [here](https://drive.google.com/drive/folders/1UWfe9D1-1VTWlmJ9CAKZj_37Qc9fnizx?usp=sharing).
+
+Very special thanks to Alessandra Máximo and [PRODABEL-PBH](https://prefeitura.pbh.gov.br/prodabel/inclusaodigital) for the Introduction to Robotics course I took.
