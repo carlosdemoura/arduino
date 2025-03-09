@@ -1,5 +1,13 @@
 # arduino
 
-My `arduino` projects are in this repo. They are listed:
+## pt-br
 
-* paresito, pass messages between two separate arduino boards through light.
+Os meus projetos `arduino` estão neste repositório. Por ordem de criação:
+
+* paresito: envie mensagens entre duas placas arduino através da luz.
+
+## en
+
+My `arduino` projects are in this repo. In order of creation:
+
+* paresito, send messages between two separate arduino boards through light.

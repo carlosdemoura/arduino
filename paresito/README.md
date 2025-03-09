@@ -15,7 +15,7 @@ Assim, podemos fazer uma comunicação entre duas placas que não estão fisicam
 
 Paresito is a C++/arduino application that aims to study the communication through bits. Two boards are required, a sending board and a receiving board. The boards must be placed in a box (so that there is no interference from ambient light) and the process takes place in four parts: 
 
-* The user types a message on the sending boards and the program converts it into binary code;
+* The user types a message on the sending board and the program converts it into binary code;
 * The LED on the sending board transforms the code into a light signal (on means 1, off means 0);
 * The brightness sensor on the receiving board captures the brightness change in the box;
 * The receiving board converts the luminosity into binary values and then into letters.
